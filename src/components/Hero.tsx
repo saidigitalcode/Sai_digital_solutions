@@ -107,7 +107,7 @@ style={{ fontFamily: `'Courier New', Courier, monospace` }}
 <div className="w-74 h-64 rounded-2xl p-1 bg-gradient-to-br from-white to-sky-400 animate-glow-pulse shadow-[0_0_40px_10px_rgba(135,206,250,0.4),0_4px_30px_rgba(255,255,255,0.3)] transition-shadow duration-500">
   <div className="w-full h-full rounded-2xl overflow-hidden mr-0">
     <Image
-      src="/services/sai-hero.png"
+      src="/sai-hero.png"
       alt="Sai Digital Illustration"
       width={256}
       height={256}
